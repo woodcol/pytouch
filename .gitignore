@@ -1,0 +1,17 @@
+固件/自动用的上传工具.bat
+GODOT/
+src/巴法云/电脑操作exe/fengmm521.exe
+pytouch.zip
+使用教程.docx
+固件/自用的上传工具.bat
+src/自有服务器远程控制/服务器端程序/__pycache__/socketServer.cpython-38.pyc
+*.pyc
+python安装包/串口调试助手/
+python安装包/CH341SER驱动程序/
+src/udp服务器/godot_手机app/fengmm521_UDP.apk
+src/获取网络时间/自动获取时间定时打卡/wifi.json
+上传工具/config.json
+src/有界面定时点击程序源码+exe/exe/
+src/有界面定时点击程序源码+exe/dist/
+src/有界面定时点击程序源码+exe/build/
+其他代码/上位机发送指定字符/电脑上程序/build/

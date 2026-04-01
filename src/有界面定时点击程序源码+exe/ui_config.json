@@ -1,0 +1,13 @@
+{
+  "serial_port": "COM3",
+  "time": "2026-01-27|19:41:18!346",
+  "tCount": 1000000,
+  "time_params": {
+    "first_down": 30,
+    "first_up": 765,
+    "second_down": 30,
+    "second_up": 765,
+    "loop_down": 30,
+    "loop_up": 30
+  }
+}
